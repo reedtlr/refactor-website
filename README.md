@@ -1,6 +1,8 @@
 # refactor-website
 (https://reedtlr.github.io/refactor-website/)
 
+![Image of website](https://reedtlr.github.io/refactor-website/assets/images/fullpage_image.png)
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
