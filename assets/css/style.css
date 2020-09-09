@@ -9,6 +9,7 @@ body {
     
 }
 
+/* style section for header  */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,6 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* style section for navbar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -42,6 +44,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* style section for icons on navbar */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -51,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* style for frontpage cover image */
 .cover_image {
     height: 800px;
     width: 100%;
@@ -70,12 +74,14 @@ p {
     margin-left: 25px;
 }
 
+/* style for main sesction */
 .social_solutions {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* style section for the three main articles */
 .optimization_reputation_marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -94,6 +100,7 @@ p {
     font-size: 36px;
 }
 
+/* style section for sidebar */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +128,7 @@ aside {
     max-width: 150px;
 }
 
+/* style section for the footer */
 footer {
     padding: 30px;
     clear: both;
