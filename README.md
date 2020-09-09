@@ -1,8 +1,6 @@
 # refactor-website
 (https://reedtlr.github.io/refactor-website/)
 
-![Image of website](https://reedtlr.github.io/refactor-website/assets/images/fullpage_image.png)
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -13,3 +11,5 @@ Refactor-website is the application of semantic HTML to an existing website. A c
 ## Technologies
 Project is created with:
 * HTML5, CSS3
+
+![Image of website](https://reedtlr.github.io/refactor-website/assets/images/fullpage_image.png)
